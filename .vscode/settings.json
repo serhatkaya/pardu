@@ -1,0 +1,17 @@
+{
+  "workbench.colorCustomizations": {
+    "[Nord Light]": {
+      "activityBar.background": "#D8DEE9",
+      "titleBar.activeBackground": "#F6F8FA",
+      "titleBar.activeForeground": "#000"
+    },
+    "[One Dark Pro Darker]": {
+      "titleBar.activeForeground": "#D8DEE9",
+      "titleBar.activeBackground": "#23272D",
+      "activityBar.background": "#23272D"
+    },
+    "activityBar.background": "#53153B",
+    "titleBar.activeBackground": "#741D52",
+    "titleBar.activeForeground": "#FEFCFD"
+  }
+}
